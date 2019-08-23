@@ -23,6 +23,9 @@ local L = {
 	ptBR = {
 	},
 	ruRU = {
+		UNTRACK_USAGE = "|cff71D5FFShift-Click|r отследить квест",
+		MOVE_USAGE = "|cff71D5FFAlt-Click|r переместить квест трекер",
+		RESET = "Настройки были сброшены",
 	},
 	--zhCN = {},
 	zhTW = {
